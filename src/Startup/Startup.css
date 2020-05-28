@@ -1,0 +1,19 @@
+.startup {
+    width: 200px;
+    height: 20%;
+    border: 2px solid grey;
+    margin: 10px 10px 0 10px;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+}
+
+.startup div {
+    margin-left: 20px;
+}
+
+.startup img {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+}

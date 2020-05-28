@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "endava",
+        "description": "development"
+    },
+    {
+        "id": 2,
+        "name": "courseit",
+        "description": "education"
+    },
+    {
+        "id": 3,
+        "name": "spacemaker",
+        "description": "infrastructure"
+    },
+    {
+        "id": 4,
+        "name": "Snackpass",
+        "description": "food"
+    }
+]

@@ -1,0 +1,20 @@
+.search-bar {
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+}
+
+.search-bar button {
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.search-bar input {
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
