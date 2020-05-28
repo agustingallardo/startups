@@ -5,6 +5,7 @@ import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 
 import Home from './pages/Home';
 import AddStartup from './pages/AddStartup';
+import StartupDetail from './StartupDetail';
 
 const App = () => {
   return (
@@ -15,6 +16,9 @@ const App = () => {
       </Route>
       <Route path='/addstartup' exact >
         <AddStartup />
+      </Route>
+      <Route path='/startup/:name' exact >
+        <StartupDetail />
       </Route>
     </Router>
     </div>
