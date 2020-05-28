@@ -1,5 +1,5 @@
 .startup {
-    width: 200px;
+    width: 90%;
     height: 20%;
     border: 2px solid grey;
     margin: 10px 10px 0 10px;
@@ -10,10 +10,15 @@
 
 .startup div {
     margin-left: 20px;
+    text-align: left;
 }
 
 .startup img {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 100%;
     margin: 5px;
+}
+
+.title {
+    font-weight: bold;
 }
